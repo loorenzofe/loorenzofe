@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <a href="https://api.whatsapp.com/send/?phone=16988064895&text&type=phone_number&app_absent=0" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=16988729787&text&type=phone_number&app_absent=0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
   <a href="https://www.linkedin.com/in/lorenzofandre/" target="_blank">
